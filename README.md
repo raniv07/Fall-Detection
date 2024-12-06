@@ -7,16 +7,16 @@ Our goal is to develop a reliable and accurate fall detection system that can im
 
 ## Files in repository
 - load_data.ipynb
-    - Notebook for loading and visualizing sensor data.
+    - Notebook for downloading and forming sensor and camera data.
     - Prepares data for input into the main detection pipeline.
       
 - Model.ipynb
     -  Final version notebook implementing fall detection pipeline.
-    -  Contains final model implemnted for two class to detect fall and all other activities considered as non-fall.
+    -  Contains final model implemnted to detect fall and non-fall (for two class).
 
 - HumanFallDetection_final.ipynb
     -  Main notebook implementing fall detection pipeline.
-    -  Contains final model implemnted on further human activities.
+    -  Contains final model implemnted on further human activities (extended to human activities from suggestion of reviewing panel).
 
 
 ### Dataset
