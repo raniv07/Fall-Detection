@@ -18,8 +18,9 @@ Our goal is to develop a reliable and accurate fall detection system that can im
     -  Main notebook implementing fall detection pipeline.
     -  Contains final model implemnted on further human activities.
 
+
 Dataset 
-We employ Panamerican University’s [UP-FALL detection dataset] (https://www.mdpi.com/1424-8220/19/9/1988). This dataset is used to recognize human activities and is mostly used to identify older people’s falls.This dataset contains two different categories of data. One is the picture data that the cameras have recorded, and the other is the sensor data that has been saved as a CSV file.
+We employ Panamerican University’s [UP-FALL detection dataset](https://www.mdpi.com/1424-8220/19/9/1988). This dataset is used to recognize human activities and is mostly used to identify older people’s falls.This dataset contains two different categories of data. One is the picture data that the cameras have recorded, and the other is the sensor data that has been saved as a CSV file.
 
 
 
