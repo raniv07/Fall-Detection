@@ -39,6 +39,8 @@ In experiments, we analyze the performance by combining: the sensor dataset (S),
 
 ![image](https://github.com/user-attachments/assets/cd34ec82-ee61-4347-b3be-199170bdf220)
 
+It is noteworthy that our approach was able to circumvent all of Martinez et al.’s techniques (which was introduced while doing literature survey),including Random Forest, Support Vector Machines, Multi-Layer Perceptron, and K-Nearest Neighbors. Comparison is mentioned in our notebooks.
+
 
 
 
